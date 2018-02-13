@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\Work\\ongoing\\imagetyperz\\API\\C#\\source\\imagetyperzapi\\imagetyperzapi\\imagetyperzapi.csproj",
+      "projectUniqueName": "C:\\Work\\ongoing\\imagetyperz\\API\\C#\\source\\imagetyperzapi\\imagetyperzapi\\imagetyperzapi.csproj",
       "projectName": "imagetyperzapi",
-      "projectPath": "c:\\Work\\ongoing\\imagetyperz\\API\\C#\\source\\imagetyperzapi\\imagetyperzapi\\imagetyperzapi.csproj",
+      "projectPath": "C:\\Work\\ongoing\\imagetyperz\\API\\C#\\source\\imagetyperzapi\\imagetyperzapi\\imagetyperzapi.csproj",
       "packagesPath": "C:\\Users\\win10\\.nuget\\packages\\",
-      "outputPath": "c:\\Work\\ongoing\\imagetyperz\\API\\C#\\source\\imagetyperzapi\\imagetyperzapi\\obj\\",
+      "outputPath": "C:\\Work\\ongoing\\imagetyperz\\API\\C#\\source\\imagetyperzapi\\imagetyperzapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11,11 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("imagetyperzapi")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("imagetyperzapi.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("imagetyperzapi - is a super easy to use bypass captcha API wrapper for imagetyper" +
+    "z.com captcha service")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("imagetyperzapi")]
+[assembly: System.Reflection.AssemblyProductAttribute("imagetyperzapi library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imagetyperzapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
