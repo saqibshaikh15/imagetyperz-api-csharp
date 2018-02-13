@@ -68,6 +68,7 @@ This method returns a captchaID. This ID will be used next, to retrieve the g-re
 completed the captcha. This takes somewhere between 10-80 seconds.
 
 **Retrieve captcha response**
+
 Once you have the captchaID, you check for it's progress, and later on retrieve the gresponse.
 
 The ***in_progress(captcha_id)*** method will tell you if captcha is still being decoded by workers.
