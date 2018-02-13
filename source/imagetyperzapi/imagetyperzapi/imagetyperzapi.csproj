@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>imagetyperzapi-dev</Authors>
+    <Company>imagetyperzapi.com</Company>
+    <PackageProjectUrl>imagetyperzapi.com</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/angular/angular.js/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/imagetyperz-api/imagetyperz-api-csharp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Product>imagetyperzapi library</Product>
+    <Description>imagetyperzapi - is a super easy to use bypass captcha API wrapper for imagetyperz.com captcha service</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>captcha, bypasscaptcha, decaptcher, decaptcha, 2captcha, deathbycaptcha, anticaptcha</PackageTags>
+    <PackageReleaseNotes>1st release</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>

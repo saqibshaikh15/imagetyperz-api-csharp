@@ -1,0 +1,7 @@
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\bin\Debug\net4.0\imagetyperzapi.dll
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\bin\Debug\net4.0\imagetyperzapi.pdb
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\net4.0\imagetyperzapi.csproj.CoreCompileInputs.cache
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\net4.0\imagetyperzapi.AssemblyInfoInputs.cache
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\net4.0\imagetyperzapi.AssemblyInfo.cs
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\net4.0\imagetyperzapi.dll
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\net4.0\imagetyperzapi.pdb

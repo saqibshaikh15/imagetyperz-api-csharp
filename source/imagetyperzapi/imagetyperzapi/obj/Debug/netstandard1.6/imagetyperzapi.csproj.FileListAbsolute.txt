@@ -1,0 +1,3 @@
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\netstandard1.6\imagetyperzapi.csproj.CoreCompileInputs.cache
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\netstandard1.6\imagetyperzapi.AssemblyInfoInputs.cache
+C:\Work\ongoing\imagetyperz\API\C#\source\imagetyperzapi\imagetyperzapi\obj\Debug\netstandard1.6\imagetyperzapi.AssemblyInfo.cs
