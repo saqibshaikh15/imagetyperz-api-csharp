@@ -78,7 +78,6 @@ Once it's no longer in progress, you can retrieve the gresponse with ***retrieve
 Console.WriteLine("Waiting for recaptcha to be solved ...");
 while (i.in_progress(captcha_id))       // check if it's still being decoded
 { System.Threading.Thread.Sleep(10000); }      // sleep for 10 seconds
-// get gresponse
 string recaptcha_response = i.retrieve_captcha(captcha_id);     // get the response
 Console.WriteLine(string.Format("Recaptcha response: {0}", recaptcha_response));
 ```
