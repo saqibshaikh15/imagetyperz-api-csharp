@@ -54,6 +54,7 @@ var captcha_text = i.solve_captcha("http://abc.com/captcha.jpg");
 **OBS:** URL instead of image file path works when you're authenticated with access_key. For those that are still using username & password, retrieve your access_key from imagetyperz.com
 
 **Submit recaptcha details**
+
 For recaptcha submission there are two things that are required.
 - page_url
 - site_key
