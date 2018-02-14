@@ -11,8 +11,9 @@
     <Product>imagetyperzapi library</Product>
     <Description>imagetyperzapi - is a super easy to use bypass captcha API wrapper for imagetyperz.com captcha service</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageTags>captcha, bypasscaptcha, decaptcher, decaptcha, 2captcha, deathbycaptcha, anticaptcha</PackageTags>
-    <PackageReleaseNotes>1st release</PackageReleaseNotes>
+    <PackageTags>captcha,bypasscaptcha,decaptcher,decaptcha,2captcha,deathbycaptcha,anticaptcha,bypass recaptcha v2,bypass no captcha recaptcha,bypass invisible recaptcha,captcha services for recaptcha v2,recaptcha v2 captcha solver,google recaptcha solver,recaptcha solver python,recaptcha bypass script</PackageTags>
+    <PackageReleaseNotes>updated tags</PackageReleaseNotes>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
